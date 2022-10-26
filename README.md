@@ -17,7 +17,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 </details>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rekl0w&show_icons=true&theme=tokyonight)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekl0w&theme=tokyonight)
 
