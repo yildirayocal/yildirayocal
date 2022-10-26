@@ -16,6 +16,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MsSql" alt="MsSql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rekl0w&show_icons=true&theme=tokyonight)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekl0w&theme=tokyonight)
+
   
 
 </details>
