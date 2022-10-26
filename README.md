@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/59089178/198110430-1ad26c64-a723-4b99-8a73-6d1c0092bc6a.png)
+
 - 👋 Hi, I’m @yildirayocal
 - 👀 I’m interested in Python, Java, AI...
 - 🌱 I’m currently learning Deep learning, Artificial İntellince, DevOps systems and tools
