@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yıldıray Öcal</h1>
 
 <p align="center">
-Software Engineer | DevOps & MLOps | MSc in Software Engineering
+Computer Engineer | DevOps & MLOps | MSc in Software Engineering
 </p>
 
 ---
@@ -11,7 +11,7 @@ Software Engineer | DevOps & MLOps | MSc in Software Engineering
 ## 🧠 About Me
 
 * 🎓 MSc Student in Software Engineering
-* 💻 Background in DevOps, Cloud & System Administration
+* 💻 Background in DevOps & System Administration
 * 🤖 Interested in Machine Learning, Deep Learning & AI Systems
 * ☁️ Building scalable and intelligent cloud-based applications
 * ✍️ Writing technical articles on Medium
