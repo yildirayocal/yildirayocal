@@ -53,7 +53,7 @@ Computer Engineer | DevOps & MLOps | MSc in Software Engineering
 
 * 💼 LinkedIn: linkedin.com/in/yildirayocal
 * ✍️ Medium: medium.com/@yildirayocal
-* 📧 Email: [yıildirayocal90@gmail.com](mailto:yildirayocal90@gmail.com)
+* 📧 Email: [yıildirayocal90@gmail.com](mailto:yildirayocal90@gmail.com) [yldry1906@gmail.com](mailto:yldry1906@gmail.com)
 
 ---
 
