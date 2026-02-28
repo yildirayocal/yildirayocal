@@ -49,14 +49,6 @@ Software Engineer | DevOps & MLOps | MSc in Software Engineering
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yildirayocal&show_icons=true&theme=default" />
-</p>
-
----
-
 ## 📫 Contact
 
 * 💼 LinkedIn: linkedin.com/in/yildirayocal
