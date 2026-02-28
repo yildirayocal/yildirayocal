@@ -57,4 +57,4 @@ Computer Engineer | DevOps & MLOps | MSc in Software Engineering
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+⭐ Always learn,always building,always improving.
